@@ -1,0 +1,112 @@
+[
+    {
+        "title": "My First Updated Post",
+        "content": "Excited to share my progress with Python! This journey has been both challenging and rewarding.",
+        "user_id": 1
+    },
+    {
+        "title": "A Post from Another User",
+        "content": "This is a post from a different user...",
+        "user_id": 2
+    },
+    {
+        "title": "Top 5 Programming Languages",
+        "content": "Explore various programming languages and their unique features. Learn about their applications and benefits.",
+        "user_id": 1
+    },
+    {
+        "title": "Exploring Sublime Text Tips and Tricks",
+        "content": "Discover tips and tricks for using Sublime Text efficiently. Improve your coding workflow with these helpful insights.",
+        "user_id": 1
+    },
+    {
+        "title": "Comparing Python IDEs",
+        "content": "Learn about different Python Integrated Development Environments (IDEs) and find the one that suits your needs best.",
+        "user_id": 1
+    },
+    {
+        "title": "Flask vs Django - Which Is Better?",
+        "content": "Explore the differences between Flask and Django, two popular Python web frameworks. Discover which one might be a better fit for your project.",
+        "user_id": 2
+    },
+    {
+        "title": "Clickbait Titles - Love Them or Hate Them?",
+        "content": "Discussing the impact of clickbait titles on online content. Do they really work, or are they just misleading?",
+        "user_id": 2
+    },
+    {
+        "title": "Beers and Programming - An Unusual Pairing",
+        "content": "Can certain beers enhance your programming skills? Let's explore this unconventional connection between beer and coding.",
+        "user_id": 1
+    },
+    {
+        "title": "Highlights from PyCon 2018 Talks",
+        "content": "Recap of interesting and informative talks from PyCon 2018. Learn about the latest developments and insights shared by speakers.",
+        "user_id": 1
+    },
+    {
+        "title": "The Impact of Dogs in the Workplace",
+        "content": "Exploring the positive effects of having dogs in the workplace. How does it boost productivity and create a positive work environment?",
+        "user_id": 1
+    },
+    {
+        "title": "Must-Listen Programming Podcasts",
+        "content": "Curated list of top programming podcasts. Enhance your knowledge and stay updated with the latest industry trends.",
+        "user_id": 1
+    },
+    {
+        "title": "Mastering Public Speaking - Tips and Tricks",
+        "content": "Practical tips for improving public speaking skills. Overcome common challenges and captivate your audience with confidence.",
+        "user_id": 2
+    },
+    {
+        "title": "Influential Programmers Throughout History",
+        "content": "Explore the lives and contributions of influential programmers who have shaped the history of computer science.",
+        "user_id": 2
+    },
+    {
+        "title": "Starting Your Own YouTube Channel",
+        "content": "Step-by-step guide on creating a successful YouTube channel. Tips on content creation, audience engagement, and channel growth.",
+        "user_id": 2
+    },
+    {
+        "title": "Behind the Scenes of Video Recording",
+        "content": "Insights into the video recording process. Learn about the equipment, software, and techniques used to create engaging videos.",
+        "user_id": 1
+    },
+    {
+        "title": "Python Applications in Physics",
+        "content": "Exploring the applications of Python in the field of physics. How can Python be used to solve complex scientific problems?",
+        "user_id": 1
+    },
+    {
+        "title": "Creating Catchy Headlines - A Writer's Guide",
+        "content": "Tips and techniques for writing catchy headlines. Grab your readers' attention with compelling and intriguing headlines.",
+        "user_id": 2
+    },
+    {
+        "title": "The Evolution of Data Science",
+        "content": "Understanding the evolution and significance of data science. Explore its impact on various industries and future trends.",
+        "user_id": 2
+    },
+    {
+        "title": "Recommended Videos for Learning Python",
+        "content": "Curated list of videos to help you learn Python. From tutorials to project walkthroughs, these videos cover it all.",
+        "user_id": 1
+    },
+    {
+        "title": "Essential Python Tips and Tricks",
+        "content": "Handpicked tips and tricks to enhance your Python programming skills. Boost your efficiency and write more effective code.",
+        "user_id": 1
+    },
+    {
+        "title": "YouTube Channels for Learning Programming",
+        "content": "Discover top YouTube channels dedicated to programming education. Find engaging content to enhance your coding skills.",
+        "user_id": 2
+    },
+    {
+        "title": "My Latest Post Update",
+        "content": "Sharing the latest updates and insights. Stay tuned for more exciting content!",
+        "user_id": 1
+    }
+]
